@@ -10,6 +10,7 @@
     },
     "recommends": [
       {
+        "id": 1,
         "title": "Empfehlung bedingungslos kostenlose Kontoführung",
         "text": "Das dauerhaft kostenlose Girokonto der DKB glänzt durch kostenlose Bargeldabhebung weltweit, eine kostenlose VISA Debitkarte sowie einen sehr attraktiven Dispozins. Zusätzlich kann man bargeldlos mit Apple und Google Pay bezahlen.",
         "short": "DKB - Girokonto",
@@ -18,6 +19,7 @@
         "bonus": null
       },
       {
+        "id": 2,
         "title": "Empfehlung Exklusivaktion",
         "text": "Das PlusKonto der HypoVereinsbank punktet durch kostenlose Kontoführung, kostenlose Kreditkarte, sehr niedrigen Dispozins von 2,66% und 75€ Bonus (bei Teilnahme am Vorteilsprogramm).",
         "short": "HypoVereinsbank - HVB PlusKonto",
